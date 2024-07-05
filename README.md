@@ -16,5 +16,4 @@ ecommerce-product-categories/
 ├── index.html
 ├── styles.css
 ├── script.js
-└── screenshots/
-    └── overview.png
+
